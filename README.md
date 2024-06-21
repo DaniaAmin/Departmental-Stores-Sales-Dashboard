@@ -11,8 +11,8 @@ You are the Data Analyst for a Chain of Departmental stores. The CEO has asked y
 5. The CEO likes simple design and big numbers, layout availability on mobile will impress her. She absolutely dislikes clutter and dark themes
 6. Assume you are now in week of 26th Oct 2012, try refreshing the numbers on the dashboard with this new data and see how long it takes. Think about how long it would take you to refresh and recommend the CEO what to do about the org data. Make a case to convince Sumera about your recommendations. This data is in the folder called New week.
 
-Solution
-Question 1
+###Solution
+####Question 1
 Answer: Given the scale of the business and the sales volume, it's crucial to select a tool that can handle large datasets efficiently, provide deep insights through interactive visualizations, and accommodate the iterative addition of new data. Let's evaluate Power BI and Streamlit based on these requirements. Power BI
 
 Pros:
