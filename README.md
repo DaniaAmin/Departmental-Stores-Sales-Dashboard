@@ -84,10 +84,12 @@ decision. If cost is a significant concern, starting with Power BI's free versio
 before scaling up could be a prudent strategy.
 
 ## Question 2
-![powerbi1](https://github.com/owaisahmedashraf/PowerBI-portfolio-project/assets/62153426/8bd3cf7c-0e13-402d-9559-13032fa8ee5e)
+![WhatsApp Image 2024-06-20 at 19 53 53_2dd711e9](https://github.com/DaniaAmin/Departmental-Stores-Sales-Dashboard/assets/164983707/59de3023-4d23-4892-8622-c977f1f16db3)
+
 
 ## Question 3 and 4
-![powerbi 2](https://github.com/owaisahmedashraf/PowerBI-portfolio-project/assets/62153426/504710ef-a67a-471d-97c9-72b64d0239b9)
+![WhatsApp Image 2024-06-20 at 19 53 52_fd4b276a](https://github.com/DaniaAmin/Departmental-Stores-Sales-Dashboard/assets/164983707/795dcc5f-849e-4c21-812b-e0b048eb1dde)
+
 
 ## Question 5.
 Reflecting on how I approached creating the Power BI dashboard to align with CEO Sumera's preferences for simplicity, big numbers, mobile accessibility, and her aversion to clutter and dark themes, I made several deliberate choices:
