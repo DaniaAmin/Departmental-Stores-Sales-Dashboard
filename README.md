@@ -60,10 +60,12 @@ Moreover, the collaborative and sharing features of Power BI align well with the
 However, it's important to consider the subscription cost of Power BI Pro or Premium as part of your decision. If cost is a significant concern, starting with Power BI's free version to validate the approach before scaling up could be a prudent strategy.
 
 Question 2
-powerbi1
+![WhatsApp Image 2024-06-20 at 19 53 53_2dd711e9](https://github.com/DaniaAmin/Departmental-Stores-Sales-Dashboard/assets/164983707/605eb6a5-aa35-45c6-ad92-4be06de4cc7d)
+
 
 Question 3 and 4
-powerbi 2
+![WhatsApp Image 2024-06-20 at 19 53 52_fd4b276a](https://github.com/DaniaAmin/Departmental-Stores-Sales-Dashboard/assets/164983707/daf69b49-97cd-4add-80af-a50cc78ef181)
+
 
 Question 5.
 Reflecting on how I approached creating the Power BI dashboard to align with CEO Sumera's preferences for simplicity, big numbers, mobile accessibility, and her aversion to clutter and dark themes, I made several deliberate choices:
